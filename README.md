@@ -4,6 +4,7 @@ my hello python
 代码讲解：http://www.cnblogs.com/fnng/p/3576154.html 
 
 Steps
+
 1. add main.py to project
 ![step1](https://github.com/atuooo/3rd/blob/master/steps/step1.png)
 2. edit Scheme
