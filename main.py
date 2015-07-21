@@ -13,11 +13,11 @@ def getImg(html):
     imglist = re.findall(imgre,html)
     x = 0
     for imgurl in imglist:
-        urllib.urlretrieve(imgurl,'/Users/Atuooo/Desktop/pythonPs/%s.jpg' % x)
+        urllib.urlretrieve(imgurl,'"your folder location"/%s.jpg' % x)
         x+=1
 
 
 html = getHtml("http://tieba.baidu.com/p/2460150866")
 
-#print getImg(html)
-print 'oOo'
+print getImg(html)
+print 'success +_+'
