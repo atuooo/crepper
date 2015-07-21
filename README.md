@@ -6,7 +6,7 @@ my hello python
 Steps
 
 1. add main.py to project
-![step1](https://github.com/atuooo/crepper/blob/master/steps/step1.png)
+  ![step1](https://github.com/atuooo/crepper/blob/master/steps/step1.png)
 
 2. edit Scheme
 ![step2](https://github.com/atuooo/crepper/blob/master/steps/step2.png)
