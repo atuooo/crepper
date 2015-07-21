@@ -9,7 +9,7 @@ Steps
 	- ![step1](https://github.com/atuooo/crepper/blob/master/steps/step1.png)
 
 2. edit Scheme
-	- [step2](https://github.com/atuooo/crepper/blob/master/steps/step2.png)
+	- ![step2](https://github.com/atuooo/crepper/blob/master/steps/step2.png)
 
 3. add the target in Build
 	- ![step3](https://github.com/atuooo/crepper/blob/master/steps/step3.png)
